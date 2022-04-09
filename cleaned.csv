@@ -1,0 +1,1426 @@
+,index,Job Title,Company Name,Industry,Hourly,Lower Salary,Upper Salary,Avg Salary(K),Job Location,Python,spark,aws,excel,sql,sas,keras,pytorch,scikit,tensor,hadoop,tableau,bi,flink,mongo,google_an
+0,0,Data Scientist,"Tecolote Research
+3.8",Aerospace & Defense,0,53,91,72.0,NM,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0
+1,1,Healthcare Data Scientist,"University of Maryland Medical System
+3.4",Health Care Services & Hospitals,0,63,112,87.5,MD,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,2,Data Scientist,"KnowBe4
+4.8",Security Services,0,80,90,85.0,FL,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+3,3,Data Scientist,"PNNL
+3.8",Energy,0,56,97,76.5,WA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,4,Data Scientist,"Affinity Solutions
+2.9",Advertising & Marketing,0,86,143,114.5,NY,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+5,5,Data Scientist,"CyrusOne
+3.4",Real Estate,0,71,119,95.0,TX,1,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0
+6,6,Data Scientist,"ClearOne Advantage
+4.1",Banks & Credit Unions,0,54,93,73.5,MD,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+7,7,Data Scientist,"Logic20/20
+3.8",Consulting,0,86,142,114.0,CA,1,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0
+8,8,Research Scientist,"Rochester Regional Health
+3.3",Health Care Services & Hospitals,0,38,84,61.0,NY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,9,Data Scientist,"<intent>
+4.6",Internet,0,120,160,140.0,NY,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,10,Data Scientist,"Wish
+3.5",Other Retail Stores,0,126,201,163.5,CA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,11,Data Scientist,"ManTech
+4.1",Research & Development,0,64,106,85.0,VA,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+12,12,Staff Data Scientist - Technology,"Walmart
+3.2","Department, Clothing, & Shoe Stores",0,106,172,139.0,TX,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+13,13,Data Analyst,"Yesler
+4.1",Advertising & Marketing,0,46,85,65.5,WA,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,0
+14,14,Data Scientist,"Takeda Pharmaceuticals
+3.7",Biotech & Pharmaceuticals,0,83,144,113.5,MA,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+15,15,Data Engineer I,"Audible
+3.6",Motion Picture Production & Distribution,0,102,190,146.0,NJ,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+16,16,"Scientist I/II, Biology","Blueprint Medicines
+3.9",Biotech & Pharmaceuticals,0,67,137,102.0,MA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+17,17,Customer Data Scientist,"h2o.ai
+4.3",Enterprise Software & Network Solutions,0,118,189,153.5,CA,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+18,18,Data Scientist - Health Data Analytics,"Nuna
+4.2",Enterprise Software & Network Solutions,0,110,175,142.5,CA,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+19,19,Data Scientist,"Pinnacol Assurance
+4.0",Insurance Carriers,0,64,111,87.5,CO,1,0,0,1,1,0,1,1,1,1,0,0,0,0,0,0
+20,20,Data Scientist,"Porch
+3.2",Internet,0,81,130,105.5,WA,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+21,21,Senior Data Scientist / Machine Learning,"Health IQ
+3.9",Insurance Agencies & Brokerages,0,73,119,96.0,TX,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+22,22,Data Scientist - Quantitative,"Truckstop.com
+3.8",Logistics & Supply Chain,0,86,139,112.5,IL,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0
+23,23,Data Scientist,"SMC 3
+4.3",Logistics & Supply Chain,0,63,105,84.0,KY,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+24,25,Data Scientist,"Novetta
+4.0",Enterprise Software & Network Solutions,0,109,177,143.0,VA,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+25,26,Digital Health Data Scientist,"Pfizer
+4.0",Biotech & Pharmaceuticals,0,63,110,86.5,MA,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+26,27,Data Scientist,"First Tech Federal Credit Union
+3.5",Banks & Credit Unions,0,75,124,99.5,OR,1,1,1,1,1,0,1,0,1,1,0,1,0,0,0,0
+27,28,Associate Data Analyst,"The Hanover Insurance Group
+3.7",Insurance Carriers,0,34,61,47.5,MA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+28,29,Clinical Data Scientist,"Pfizer
+4.0",Biotech & Pharmaceuticals,0,63,105,84.0,CT,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+29,30,Data Scientist,"KnowBe4
+4.8",Security Services,0,80,90,85.0,FL,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+30,31,Data Scientist,"PNNL
+3.8",Energy,0,56,97,76.5,WA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,32,Data Scientist,"Amrock
+3.6",Real Estate,0,72,120,96.0,MI,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+32,33,Data Scientist / Machine Learning Expert,"Novartis
+3.8",Biotech & Pharmaceuticals,0,86,143,114.5,MA,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+33,34,Data Scientist,"Juniper Networks
+3.8",Telecommunications Services,0,93,149,121.0,CA,1,1,0,1,1,0,1,0,1,1,0,0,0,0,1,0
+34,35,Data Scientist,"New England Biolabs
+4.7",Biotech & Pharmaceuticals,0,85,140,112.5,MA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+35,36,Web Data Analyst,"Clarity Insights
+4.2",IT Services,0,77,135,106.0,CA,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0
+36,37,Data Scientist,"Esri
+3.5",Computer Hardware & Software,0,82,132,107.0,CA,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0
+37,38,Data Scientist,"Systems & Technology Research
+4.7",Aerospace & Defense,0,83,137,110.0,MA,1,1,0,1,1,0,0,1,1,1,1,0,0,0,0,0
+38,39,Senior Data Scientist,"Sartorius
+3.5",Biotech & Pharmaceuticals,0,115,180,147.5,CA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+39,40,Data Engineer,"Lancer Insurance
+3.5",Insurance Carriers,0,74,138,106.0,NY,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+40,41,Data Analyst,"Sauce Labs
+4.2",IT Services,0,64,112,88.0,CA,1,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0
+41,43,Data Engineer,"Persivia
+3.6",-1,0,68,129,98.5,MA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+42,44,Data Scientist - Algorithms & Inference,"Nuna
+4.2",Enterprise Software & Network Solutions,0,110,175,142.5,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,45,Scientist,"Edgewell Personal Care
+3.4",Consumer Products Manufacturing,0,52,113,82.5,NJ,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,46,Senior Data Scientist,"Equity Residential
+4.3",Real Estate,0,110,150,130.0,IL,1,1,0,1,1,0,0,0,1,0,1,1,1,0,0,0
+45,48,Data Scientist,"BPA Services
+5.0",Enterprise Software & Network Solutions,0,150,160,155.0,DC,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+46,49,Lead Data Scientist,"Visa Inc.
+3.7",IT Services,0,158,211,184.5,WA,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0
+47,50,Associate Data Analyst,"Intrado
+3.1",Enterprise Software & Network Solutions,0,20,39,29.5,CO,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+48,51,Spectral Scientist/Engineer,"Centauri
+4.7",Aerospace & Defense,0,56,117,86.5,OH,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,52,College Hire - Data Scientist - Open to December 2019 Graduates,"Caterpillar
+3.7",Industrial Manufacturing,0,63,99,81.0,IL,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+50,54,Data Scientist,"Zimmerman Advertising
+3.8",Advertising & Marketing,0,68,114,91.0,FL,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0
+51,55,"Data Scientist, Office of Data Science","Liberty Mutual Insurance
+3.3",Insurance Carriers,0,86,143,114.5,MA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,56,Data Science Analyst,"Torch Technologies, Inc.
+4.6",Aerospace & Defense,0,41,95,68.0,AL,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+53,57,Data Scientist,"Swiss Re
+3.7",Insurance Agencies & Brokerages,0,86,144,115.0,NY,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+54,58,Data Scientist,"Northrop Grumman
+3.7",Aerospace & Defense,0,80,139,109.5,CA,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+55,59,Data Scientist,"Sartorius
+3.5",Biotech & Pharmaceuticals,0,56,95,75.5,NM,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+56,60,Data Scientist,"Netskope
+4.1",Enterprise Software & Network Solutions,0,120,189,154.5,CA,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0
+57,61,Data Scientist,"1904labs
+4.7",IT Services,0,111,176,143.5,MO,1,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+58,62,Data Scientist,"ClearOne Advantage
+4.1",Banks & Credit Unions,0,54,93,73.5,MD,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+59,63,Data Scientist,"CyrusOne
+3.4",Real Estate,0,71,119,95.0,TX,1,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0
+60,65,Senior Data Scientist,"The David J. Joseph Company
+4.4",Metals Brokers,0,82,132,107.0,OH,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0
+61,66,Data Scientist,"USEReady
+4.3",Consulting,0,84,146,115.0,NY,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0
+62,67,Senior Risk Data Scientist,"Bill.com
+3.8",Financial Transaction Processing,0,107,172,139.5,CA,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+63,68,Data Scientist in Artificial Intelligence Early Career,"Pacific Northwest National Laboratory
+3.8",Energy,0,49,85,67.0,WA,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+64,70,Data Scientist,"DICK'S Sporting Goods - Corporate
+3.8",Sporting Goods Stores,0,61,109,85.0,PA,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+65,72,Data Scientist,"Berg Health
+2.8",Biotech & Pharmaceuticals,0,88,148,118.0,MA,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+66,73,Data Scientist,"Oversight Systems
+4.7",Computer Hardware & Software,0,60,99,79.5,GA,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0
+67,75,Data Scientist - Research,"C Space
+3.1",Advertising & Marketing,0,41,72,56.5,MA,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+68,76,Data Scientist,"Numeric, LLC
+3.2",Staffing & Outsourcing,0,96,161,128.5,PA,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+69,77,R&D Data Analysis Scientist,"HP Inc.
+4.0",Computer Hardware & Software,0,65,130,97.5,WA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70,78,Analytics Consultant,"SpringML
+4.4",Enterprise Software & Network Solutions,0,52,81,66.5,IN,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+71,79,"Director, Data Science","Grainger
+3.6",Wholesale,0,139,220,179.5,IL,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+72,80,Scientist,"EAG Laboratories
+2.7",Research & Development,0,50,102,76.0,MO,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+73,81,Data Scientist SR,"The Buffalo Group
+3.9",IT Services,0,85,139,112.0,VA,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+74,82,Data Scientist,"Carmeuse
+3.1",Mining,0,74,122,98.0,PA,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+75,83,R&D Sr Data Scientist,"HP Inc.
+4.0",Computer Hardware & Software,0,99,157,128.0,WA,0,1,1,0,1,0,0,0,1,1,0,0,0,0,0,0
+76,84,Customer Data Scientist/Sales Engineer (Bay,"h2o.ai
+4.3",Enterprise Software & Network Solutions,0,79,222,150.5,CA,1,1,1,1,0,0,1,0,1,1,1,0,0,0,0,0
+77,85,Research Scientist,"GNS Healthcare
+1.9",Biotech & Pharmaceuticals,0,57,118,87.5,MA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,86,Data Scientist,"Peraton
+3.3",Aerospace & Defense,0,83,137,110.0,VA,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+79,87,Data Scientist,"Pactera
+4.4",IT Services,0,86,141,113.5,CA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+80,88,Data Scientist,"Nurx
+3.9",Health Care Services & Hospitals,0,94,154,124.0,CA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+81,89,Jr. Business Data Analyst,"webfx.com
+4.7",Advertising & Marketing,0,37,76,56.5,PA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+82,90,Data Scientist,"Johns Hopkins University Applied Physics Laboratory
+4.5",Aerospace & Defense,0,100,160,130.0,MD,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+83,91,Data Analyst,"Productive Edge
+4.3",Computer Hardware & Software,0,55,100,77.5,IL,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+84,92,Data Engineer,"Excella Consulting
+4.0",Consulting,0,60,114,87.0,VA,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+85,93,Data Analyst,"Gensco
+4.4",Wholesale,0,39,68,53.5,WA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+86,94,Staff Data Scientist - Technology,"Walmart
+3.2","Department, Clothing, & Shoe Stores",0,106,172,139.0,TX,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+87,95,Data Scientist,"Logic20/20
+3.8",Consulting,0,86,142,114.0,CA,1,1,1,1,1,0,0,1,0,1,0,0,0,0,0,0
+88,96,Data Scientist,"goTRG
+4.2",Enterprise Software & Network Solutions,0,64,107,85.5,FL,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+89,97,Data Management Specialist,"NMR Consulting
+4.5",IT Services,0,31,65,48.0,AL,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+90,99,E-Commerce Data Analyst,"iSeatz
+3.5",Enterprise Software & Network Solutions,0,34,62,48.0,LA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+91,101,Sr. Scientist II,"Nektar Therapeutics
+3.5",Biotech & Pharmaceuticals,0,117,231,174.0,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+92,102,Insurance Data Scientist,"TransUnion
+3.9",Financial Analytics & Research,0,64,106,85.0,GA,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+93,104,Data Modeler,"IT Concepts
+4.7",IT Services,0,79,134,106.5,MD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,105,Data Analyst / Scientist,"Scientific Research Corporation
+4.2",IT Services,0,52,93,72.5,MD,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+95,106,Scientist,"General Dynamics Information Technology
+3.4",IT Services,0,55,116,85.5,MD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+96,107,Data Scientist,"MITRE
+3.2",Federal Agencies,0,72,123,97.5,VA,1,0,0,1,1,1,0,0,0,0,0,1,1,0,1,0
+97,108,Data Scientist,"The Buffalo Group
+3.9",IT Services,0,74,124,99.0,VA,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+98,109,Data Analyst,"DentaQuest
+3.1",Insurance Carriers,0,40,73,56.5,WI,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+99,110,Lead Data Scientist,"Redjack
+4.1",IT Services,0,102,164,133.0,MD,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100,112,Data Scientist,"7Park Data
+3.8",Research & Development,0,89,153,121.0,NY,1,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0
+101,113,Data Scientist,"Rapid Response Monitoring
+4.7",Security Services,0,61,110,85.5,NY,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+102,116,"Data Scientist, Rice University","Trilogy Ed
+4.3",Education Training Services,0,65,110,87.5,TX,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+103,117,Senior Data Scientist,"Gallup
+4.2",Consulting,0,200,275,237.5,DC,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+104,118,Data Engineer,"CapTech
+3.9",IT Services,0,68,123,95.5,NC,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+105,119,Senior Data Scientist,"American Axle & Manufacturing
+3.3",Transportation Equipment Manufacturing,0,80,129,104.5,MI,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0
+106,120,Financial Data Analyst,"CentralReach
+4.7",Computer Hardware & Software,0,41,72,56.5,NJ,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+107,122,Senior Data Analyst,"Integrate
+4.3",Enterprise Software & Network Solutions,0,39,71,55.0,AZ,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+108,123,Research Scientist,"Boys Town Hospital
+2.9",Health Care Services & Hospitals,0,38,85,61.5,NE,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+109,124,Data Scientist,"Demandbase
+4.5",Computer Hardware & Software,0,121,193,157.0,CA,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,125,Data Engineer,"Sapphire Digital
+3.4",Internet,0,54,102,78.0,NJ,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+111,126,Data Scientist,"Takeda Pharmaceuticals
+3.7",Biotech & Pharmaceuticals,0,83,144,113.5,MA,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+112,127,Data Scientist,"<intent>
+4.6",Internet,0,120,160,140.0,NY,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,128,Data Scientist,"Formation
+3.2",Enterprise Software & Network Solutions,0,102,163,132.5,CA,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+114,129,Data Engineer,"Autodesk
+4.0",Computer Hardware & Software,0,76,140,108.0,CA,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+115,130,Ag Data Scientist,"Beck's Hybrids
+4.6",Farm Support Services,0,60,101,80.5,IN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,131,Data Scientist,"DrFirst
+2.8",Health Care Services & Hospitals,0,82,133,107.5,MD,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,132,Data Engineer,"Object Partners
+4.7",Consulting,0,65,125,95.0,MN,0,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0
+118,136,Data Scientist II,"L.A. Care Health Plan
+3.0",Health Care Services & Hospitals,0,91,148,119.5,CA,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+119,137,Senior Data Engineer,"Red Ventures
+3.2",Advertising & Marketing,0,95,173,134.0,NC,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+120,138,Data Scientist,"Quick Base
+4.4",Enterprise Software & Network Solutions,0,77,124,100.5,MA,1,0,0,1,1,0,0,0,1,0,0,1,1,0,0,0
+121,139,Data Scientist,"The E.W. Scripps Company
+3.5",TV Broadcast & Cable Networks,0,80,135,107.5,OH,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+122,140,Data Engineer,"Upside Business Travel
+4.0",Internet,0,85,159,122.0,DC,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+123,141,Data Engineer,"Equity Residential
+4.3",Real Estate,0,80,105,92.5,IL,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0
+124,142,Data Analyst,"Synagro
+2.3",Research & Development,0,43,81,62.0,MD,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+125,143,Project Scientist,"Alliance Source Testing
+4.0",Architectural & Engineering Services,0,29,50,39.5,AL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+126,145,Data Scientist,"Accuride International
+3.6",Industrial Manufacturing,0,82,133,107.5,CA,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+127,146,Data Analytics Manager,"Full Potential Solutions
+3.8",Staffing & Outsourcing,0,26,55,40.5,MO,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0
+128,147,Senior Machine Learning (ML) Engineer / Data Scientist - Cyber Security Analytics,"Visa Inc.
+3.7",IT Services,0,61,118,89.5,VA,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+129,148,Data Scientist,"Maven Wave Partners
+4.4",Consulting,0,60,102,81.0,IL,1,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+130,150,Senior Data Scientist,"Novetta
+4.0",Enterprise Software & Network Solutions,0,112,182,147.0,VA,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+131,152,Data Scientist,"First Command Financial Services, Inc.
+3.2",Brokerage Services,0,64,106,85.0,TX,1,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0
+132,153,Associate Scientist,"Pharmavite
+2.9",Consumer Products Manufacturing,0,51,112,81.5,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+133,154,"Scientist 2, QC Viral Vector","BioMarin Pharmaceutical
+3.8",Biotech & Pharmaceuticals,0,113,223,168.0,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+134,156,Machine Learning Engineer,"Stratagem Group
+4.3",Aerospace & Defense,0,72,129,100.5,CO,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0
+135,157,Data Scientist/ML Engineer,"PA Consulting
+3.4",Consulting,0,71,123,97.0,NY,1,1,0,1,1,0,0,0,0,0,1,1,0,0,1,0
+136,158,Data Scientist,"ManTech
+4.1",Research & Development,0,64,106,85.0,VA,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+137,159,Customer Data Scientist,"h2o.ai
+4.3",Enterprise Software & Network Solutions,0,118,189,153.5,CA,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+138,161,Data Engineer,"Gridiron IT
+5.0",IT Services,0,120,145,132.5,FL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,162,Data Engineer,"Productive Edge
+4.3",Computer Hardware & Software,0,80,120,100.0,IL,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+140,164,Sr. Data Scientist,"Evolve Vacation Rental
+3.7",Travel Agencies,0,80,130,105.0,CO,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+141,166,Data Engineer 4 - Contract,"The Church of Jesus Christ of Latter-day Saints
+4.2",Religious Organizations,0,59,115,87.0,UT,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+142,167,Data Analyst - Asset Management,"Maximus Real Estate Partners
+4.3",Real Estate,0,71,136,103.5,CA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+143,168,Senior Research Scientist - Embedded System Development for DevOps,"Software Engineering Institute
+2.6",Colleges & Universities,0,81,167,124.0,PA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+144,169,Data Scientist - Bioinformatics,"PNNL
+3.8",Energy,0,49,85,67.0,WA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+145,170,Data Engineer,"AVANADE
+3.9",IT Services,0,60,114,87.0,DC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+146,171,Customer Data Scientist/Sales Engineer,"h2o.ai
+4.3",Enterprise Software & Network Solutions,0,71,204,137.5,IL,1,1,1,1,0,0,1,0,1,1,1,0,0,0,0,0
+147,172,Lead Data Scientist,"PatientPoint
+3.8",Advertising & Marketing,0,75,125,100.0,OH,1,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0
+148,174,MongoDB Data Engineer II,"BlueCross BlueShield of Tennessee
+3.8",Insurance Carriers,0,77,136,106.5,TN,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0
+149,175,Senior Data Scientist Statistics,"PNNL
+3.8",Energy,0,74,123,98.5,WA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+150,177,Senior Data Analyst,"KnowBe4
+4.8",Security Services,0,44,78,61.0,FL,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+151,178,Senior Spark Engineer (Data Science),"KSM Consulting
+4.4",Consulting,0,65,148,106.5,IN,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+152,179,Data Engineer,"Cogo Labs
+3.9",Internet,0,59,110,84.5,MA,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+153,180,BI & Platform Analytics Manager,"Church & Dwight
+3.4",Consumer Products Manufacturing,0,85,134,109.5,NJ,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0
+154,181,Lead Data Scientist,"MassMutual
+3.6",Insurance Carriers,0,124,204,164.0,MA,1,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0
+155,182,"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)","Genentech
+3.9",Biotech & Pharmaceuticals,0,131,207,169.0,CA,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+156,183,Senior Data Scientist,"Juniper Networks
+3.8",Telecommunications Services,0,110,174,142.0,CA,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0
+157,185,Pricipal Scientist Molecular and cellular biologist,"Takeda Pharmaceuticals
+3.7",Biotech & Pharmaceuticals,0,52,101,76.5,MA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+158,187,"Data Scientist (Actuary, FSA or ASA)","Legal & General America
+3.8",Insurance Carriers,0,81,133,107.0,MD,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+159,188,Staff Data Scientist,"Western Digital
+3.5",Computer Hardware & Software,0,132,211,171.5,CA,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+160,190,Senior Data Scientist / Machine Learning,"Health IQ
+3.9",Insurance Agencies & Brokerages,0,73,119,96.0,TX,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+161,191,Data Scientist - Health Data Analytics,"Nuna
+4.2",Enterprise Software & Network Solutions,0,110,175,142.5,CA,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+162,192,Data Engineer 5 - Contract (Remote),"The Church of Jesus Christ of Latter-day Saints
+4.2",Religious Organizations,0,74,140,107.0,UT,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+163,193,Senior Scientist - Neuroscience,"Sunovion
+3.5",Biotech & Pharmaceuticals,0,100,190,145.0,MA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+164,194,Senior Data Analyst,"National Student Clearinghouse
+2.9",Colleges & Universities,0,43,80,61.5,VA,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0
+166,198,"Risk and Analytics IT, Data Scientist","State of Wisconsin Investment Board
+2.7",Investment Banking & Asset Management,0,91,149,120.0,WI,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+167,199,"Scientist, Analytical Development","Rubius Therapeutics
+4.4",Biotech & Pharmaceuticals,0,42,82,62.0,MA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+168,200,Senior Data Scientist,"Autodesk
+4.0",Computer Hardware & Software,0,116,185,150.5,CA,1,1,0,0,1,1,0,0,1,1,1,0,0,0,0,0
+169,201,Analytics Manager,"OneMagnify
+4.3",Advertising & Marketing,0,59,116,87.5,MI,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+170,202,Data Engineer,"IZEA
+4.2",Advertising & Marketing,0,48,95,71.5,FL,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+171,203,Digital Marketing & ECommerce Data Analyst,"Vionic Group
+3.6","Department, Clothing, & Shoe Stores",0,31,72,51.5,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+172,204,Sr. Scientist - Digital & Image Analysis/Computational Pathology,"Takeda Pharmaceuticals
+3.7",Biotech & Pharmaceuticals,0,105,198,151.5,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+173,205,Senior Data Analyst,"Dodge Data & Analytics
+2.8",IT Services,0,55,100,77.5,NJ,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+174,206,Principal Scientist - Immunologist,"Takeda Pharmaceuticals
+3.7",Biotech & Pharmaceuticals,0,98,182,140.0,MA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+175,207,Senior Data Scientist,"Plymouth Rock Assurance
+3.3",Insurance Carriers,0,73,124,98.5,NJ,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+176,208,Principal Data Scientist with over 10 years experience,CA-One Tech Cloud,IT Services,0,200,250,225.0,CA,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+178,210,"Sr. Scientist, Quantitative Translational Sciences","Takeda Pharmaceuticals
+3.7",Biotech & Pharmaceuticals,0,117,206,161.5,MA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+179,211,Sr. Data Scientist II,"Argo Group US
+3.4",Insurance Carriers,0,111,183,147.0,NY,1,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0
+180,212,Excel / VBA / SQL Data Analyst,"Associated Electric Cooperative
+4.1",Energy,0,44,78,61.0,MO,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+181,213,Machine Learning Research Scientist,"Software Engineering Institute
+2.6",Colleges & Universities,0,81,159,120.0,PA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,215,"VP, Data Science","PennyMac
+3.2",Lending,0,83,166,124.5,AZ,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0
+183,216,Senior Data Scientist,"Zest AI
+3.9",Financial Analytics & Research,0,114,182,148.0,CA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+184,217,Radar Data Analyst,"DECISIVE ANALYTICS Corporation
+4.7",Aerospace & Defense,0,42,76,59.0,AL,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+185,221,PL Actuarial-Lead Data Scientist,"The Hanover Insurance Group
+3.7",Insurance Carriers,0,114,179,146.5,MA,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+186,223,PV Scientist,"Karyopharm Therapeutics Inc.
+2.9",Biotech & Pharmaceuticals,0,60,123,91.5,MA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+187,224,Senior Data & Machine Learning Scientist,"Tempus Labs
+3.0",Biotech & Pharmaceuticals,0,100,166,133.0,IL,1,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+188,225,Principal Data Scientist (Computational Chemistry),"Recursion Pharmaceuticals
+4.7",Biotech & Pharmaceuticals,0,108,173,140.5,UT,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0
+189,226,Data Engineer,"P2 Energy Solutions
+3.7",Computer Hardware & Software,0,48,93,70.5,LA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+190,228,"Principal Scientist, Chemistry & Immunology","Rochester Regional Health
+3.3",Health Care Services & Hospitals,0,54,115,84.5,NY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,229,Software Engineer - Data Visualization,"ClearEdge
+4.0",Computer Hardware & Software,0,60,127,93.5,MD,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+192,230,"Scientist/Senior Scientist, Autoimmune","Rubius Therapeutics
+4.4",Biotech & Pharmaceuticals,0,90,179,134.5,MA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193,233,Staff Machine Learning Engineer,"Tapjoy
+3.9",Internet,0,138,224,181.0,CA,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+194,234,"Principal Scientist, Hematology","Rochester Regional Health
+3.3",Health Care Services & Hospitals,0,54,115,84.5,NY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+195,235,Lead Data Engineer,"Credit Sesame
+4.1",Internet,0,190,220,205.0,CA,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+196,239,Marketing Data Analyst,"San Manuel Casino
+3.6",Gambling,0,35,62,48.5,CA,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1
+198,242,R&D Specialist/ Food Scientist,"Teasdale Latin Foods
+2.4",Food & Beverage Manufacturing,0,39,66,52.5,IL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,243,Senior Research Scientist-Machine Learning,"Software Engineering Institute
+2.6",Colleges & Universities,0,81,167,124.0,PA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,245,Analytics Manager - Data Mart,"Central California Alliance for Health
+3.5",Health Care Services & Hospitals,0,42,86,64.0,CA,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+201,246,Sr. Data Engineer - Contract-to-Hire (Java),"Pilot Flying J Travel Centers LLC
+3.0",Gas Stations,0,69,127,98.0,TN,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+203,248,Food Scientist - Developer,"Palermo's Pizza
+3.3",Food & Beverage Manufacturing,0,40,68,54.0,WI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,250,Staff Scientist-Downstream Process Development,"Advanced BioScience Laboratories
+2.7",Biotech & Pharmaceuticals,0,49,113,81.0,MD,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+205,251,Sr. Data Engineer,"Echo Global Logistics
+3.4",Transportation Management,0,75,140,107.5,IL,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+206,253,Data Scientist - Quantitative,"Truckstop.com
+3.8",Logistics & Supply Chain,0,86,139,112.5,IL,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0
+207,254,Data Scientist,"Lockheed Martin
+3.7",Aerospace & Defense,0,66,112,89.0,VA,1,1,0,1,1,0,0,0,0,0,1,1,0,0,0,0
+208,255,Senior Research Statistician- Data Scientist,"Acuity Insurance
+4.8",Insurance Carriers,0,76,125,100.5,WI,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+209,256,"Business Data Analyst, SQL","Fareportal
+3.8",Travel Agencies,0,44,86,65.0,NY,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0
+211,258,Data Scientist,"Credera
+4.3",Consulting,0,53,92,72.5,TX,1,1,1,1,1,0,0,0,0,0,1,1,1,0,0,0
+212,259,Senior Data Analyst,"KnowBe4
+4.8",Security Services,0,44,78,61.0,FL,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+213,260,BI & Platform Analytics Manager,"Church & Dwight
+3.4",Consumer Products Manufacturing,0,85,134,109.5,NJ,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0
+214,262,Data Engineer,"Cogo Labs
+3.9",Internet,0,59,110,84.5,MA,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+215,263,Data Scientist,"Spectrum Communications and Consulting
+3.4",Advertising & Marketing,0,64,111,87.5,IL,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+216,264,Data Analyst,"NCSOFT
+3.1",Video Games,0,65,120,92.5,CA,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0
+217,265,Associate Data Scientist/Computer Scientist,"MITRE
+3.2",Federal Agencies,0,60,103,81.5,VA,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+218,266,Business Intelligence Analyst / Developer,"Dayton Freight Lines, Inc.
+4.3",Trucking,0,53,105,79.0,OH,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+219,267,Lead Data Scientist,"MassMutual
+3.6",Insurance Carriers,0,124,204,164.0,MA,1,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0
+220,268,"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)","Genentech
+3.9",Biotech & Pharmaceuticals,0,131,207,169.0,CA,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+221,269,Senior Data Scientist,"Juniper Networks
+3.8",Telecommunications Services,0,110,174,142.0,CA,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,0
+222,270,Data Analyst,"Community Action Partnership of San Luis Obispo
+2.8",Social Assistance,0,33,62,47.5,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+223,273,Pricipal Scientist Molecular and cellular biologist,"Takeda Pharmaceuticals
+3.7",Biotech & Pharmaceuticals,0,52,101,76.5,MA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+224,274,Data Analyst,"TrueAccord
+3.4",Enterprise Software & Network Solutions,0,48,90,69.0,CA,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0
+225,275,Data Analyst,"DRB Systems
+4.0",Computer Hardware & Software,0,34,64,49.0,ID,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+226,276,Staff Data Scientist,"Western Digital
+3.5",Computer Hardware & Software,0,132,211,171.5,CA,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+227,277,"Data Scientist (Actuary, FSA or ASA)","Legal & General America
+3.8",Insurance Carriers,0,81,133,107.0,MD,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+228,278,System and Data Analyst,"Corcentric
+3.7",Enterprise Software & Network Solutions,0,42,76,59.0,NJ,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+229,281,Data Scientist,"U.Group
+3.5",IT Services,0,66,111,88.5,IN,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+230,282,Data Engineer 5 - Contract (Remote),"The Church of Jesus Christ of Latter-day Saints
+4.2",Religious Organizations,0,74,140,107.0,UT,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+231,284,Digital Health Data Scientist,"Pfizer
+4.0",Biotech & Pharmaceuticals,0,63,110,86.5,MA,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+232,285,Data Scientist,"SMC 3
+4.3",Logistics & Supply Chain,0,63,105,84.0,KY,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+233,288,Data & Analytics Consultant (NYC),"Systems Evolution Inc.
+4.7",Consulting,0,91,138,114.5,NY,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+234,289,Senior Scientist - Neuroscience,"Sunovion
+3.5",Biotech & Pharmaceuticals,0,100,190,145.0,MA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+235,290,Data Engineer,"Eventbrite
+4.4",Internet,0,62,114,88.0,TN,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+236,291,Big Data Engineer - Chicago - Future Opportunity,"Centro
+4.1",Internet,0,71,129,100.0,IL,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+237,292,Senior Data Analyst,"National Student Clearinghouse
+2.9",Colleges & Universities,0,43,80,61.5,VA,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0
+238,293,Data Scientist,"comScore
+2.5",Advertising & Marketing,0,74,119,96.5,OR,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+239,295,Survey Data Analyst,"SullivanCotter
+4.2",Consulting,0,55,97,76.0,MN,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+240,296,Data Scientist,"NPD
+3.9",Research & Development,0,15,16,15.5,NY,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+241,299,Data Scientist,"Bakery Agency
+4.3",Advertising & Marketing,0,61,106,83.5,TX,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+242,300,"Risk and Analytics IT, Data Scientist","State of Wisconsin Investment Board
+2.7",Investment Banking & Asset Management,0,91,149,120.0,WI,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+243,302,Data Scientist,"Genentech
+3.9",Biotech & Pharmaceuticals,0,127,199,163.0,CA,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+244,305,Lead Health Data Analyst - Front End,"Blue Cross & Blue Shield of Rhode Island
+3.4",Insurance Carriers,0,74,126,100.0,RI,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+245,306,Research Scientist,"Boys Town
+3.8",Social Assistance,0,33,72,52.5,NE,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+247,308,Junior Data Analyst,"The HSC Health Care System
+3.3",Health Care Services & Hospitals,0,37,63,50.0,DC,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0
+248,309,SQL Data Engineer,"Pro-Sphere Tek
+3.4",Consulting,0,67,119,93.0,TX,1,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0
+249,310,Data Scientist,"Ameritas Life Insurance Corp
+3.0",Insurance Agencies & Brokerages,0,72,117,94.5,OH,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+250,311,Senior Data Scientist,"Autodesk
+4.0",Computer Hardware & Software,0,116,185,150.5,CA,1,1,0,0,1,1,0,0,1,1,1,0,0,0,0,0
+251,312,Data Scientist,"Genworth
+3.7",Insurance Carriers,0,78,126,102.0,NC,1,1,1,1,1,1,0,0,1,0,1,1,0,0,0,0
+252,313,"Scientist, Analytical Development","Rubius Therapeutics
+4.4",Biotech & Pharmaceuticals,0,42,82,62.0,MA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+253,314,Analytics Manager,"OneMagnify
+4.3",Advertising & Marketing,0,59,116,87.5,MI,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+254,316,Clinical Data Scientist,"Pfizer
+4.0",Biotech & Pharmaceuticals,0,63,105,84.0,CT,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+255,317,Data Scientist,"Novetta
+4.0",Enterprise Software & Network Solutions,0,109,177,143.0,VA,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+256,318,"Sr. Data Scientist, Cyber-Security LT Contract","Numeric, LLC
+3.2",Staffing & Outsourcing,0,116,194,155.0,PA,1,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0
+257,319,Data Engineer,"IZEA
+4.2",Advertising & Marketing,0,48,95,71.5,FL,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+258,320,Data Scientist,"Trace Data
+3.9",Insurance Carriers,0,83,133,108.0,CA,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0
+259,322,Sr. Scientist - Digital & Image Analysis/Computational Pathology,"Takeda Pharmaceuticals
+3.7",Biotech & Pharmaceuticals,0,105,198,151.5,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+260,323,Digital Marketing & ECommerce Data Analyst,"Vionic Group
+3.6","Department, Clothing, & Shoe Stores",0,31,72,51.5,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+261,324,Principal Scientist - Immunologist,"Takeda Pharmaceuticals
+3.7",Biotech & Pharmaceuticals,0,98,182,140.0,MA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+262,325,Senior Data Analyst,"Dodge Data & Analytics
+2.8",IT Services,0,55,100,77.5,NJ,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+263,326,Insurance Financial Data Analyst,"Clearwater Analytics
+4.2",Investment Banking & Asset Management,0,45,82,63.5,ID,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+264,328,Data Scientist,"Tekvalley, Corp.
+4.0",IT Services,0,83,135,109.0,CA,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+265,330,Data Scientist,"BWX Technologies
+3.5",Aerospace & Defense,0,70,122,96.0,TN,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+266,331,Principal Data Scientist with over 10 years experience,CA-One Tech Cloud,IT Services,0,200,250,225.0,CA,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+267,332,Data Engineer,"PennyMac
+3.2",Lending,0,70,132,101.0,CA,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0
+268,333,Senior Data Scientist,"Plymouth Rock Assurance
+3.3",Insurance Carriers,0,73,124,98.5,NJ,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+269,334,Data Engineer I - Azure,"Vermeer
+3.9",Industrial Manufacturing,0,54,101,77.5,IA,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+270,335,"Sr. Scientist, Quantitative Translational Sciences","Takeda Pharmaceuticals
+3.7",Biotech & Pharmaceuticals,0,117,206,161.5,MA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272,339,Sr. Data Scientist II,"Argo Group US
+3.4",Insurance Carriers,0,111,183,147.0,NY,1,1,1,0,1,0,1,1,1,1,1,0,0,0,0,0
+273,341,Data Scientist,"L&T Infotech
+3.5",IT Services,0,68,112,90.0,CA,1,0,0,1,1,0,1,0,1,0,0,1,0,0,0,0
+274,342,Information Security Data Analyst,"OceanFirst Financial
+4.3",Banks & Credit Unions,0,42,74,58.0,NJ,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+275,344,Excel / VBA / SQL Data Analyst,"Associated Electric Cooperative
+4.1",Energy,0,44,78,61.0,MO,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+276,346,Machine Learning Research Scientist,"Software Engineering Institute
+2.6",Colleges & Universities,0,81,159,120.0,PA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,347,Data Scientist,"Sotheby's
+3.6",Auctions & Galleries,0,95,161,128.0,NY,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+278,348,Data Scientist,"First Tech Federal Credit Union
+3.5",Banks & Credit Unions,0,75,124,99.5,OR,1,1,1,1,1,0,1,0,1,1,0,1,0,0,0,0
+279,349,Data Scientist,"Amrock
+3.6",Real Estate,0,72,120,96.0,MI,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+280,350,Data Scientist,"Vanda Pharmaceuticals
+2.3",Biotech & Pharmaceuticals,0,76,126,101.0,DC,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+281,351,Senior Data Scientist,"Zest AI
+3.9",Financial Analytics & Research,0,114,182,148.0,CA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,352,"Data Scientist, Senior","Novetta
+4.0",Enterprise Software & Network Solutions,0,108,176,142.0,VA,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+283,353,Senior Data Scientist,"CK-12 Foundation
+4.1",K-12 Education,0,130,208,169.0,CA,0,0,1,1,1,1,0,0,0,0,0,1,0,0,1,0
+284,354,"VP, Data Science","PennyMac
+3.2",Lending,0,83,166,124.5,AZ,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0
+285,355,Radar Data Analyst,"DECISIVE ANALYTICS Corporation
+4.7",Aerospace & Defense,0,42,76,59.0,AL,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+286,356,CONSULTANT– DATA ANALYTICS GROUP,"Opinion Dynamics
+4.2",Consulting,0,37,68,52.5,CA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+287,357,Data Engineer,"Applied Information Sciences
+4.6",IT Services,0,52,99,75.5,TX,0,1,0,0,1,0,0,0,0,0,1,1,1,0,0,0
+288,358,Senior Data Scientist,"Swiss Re
+3.7",Insurance Agencies & Brokerages,0,105,173,139.0,NY,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+289,362,"Data Engineer, Data Engineering and Artifical Intelligence","Takeda Pharmaceuticals
+3.7",Biotech & Pharmaceuticals,0,71,134,102.5,MA,1,1,1,1,1,0,0,0,0,0,1,1,0,0,1,0
+290,364,Staff Scientist,"WK Dickson
+4.4",Architectural & Engineering Services,0,39,82,60.5,SC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+291,366,PL Actuarial-Lead Data Scientist,"The Hanover Insurance Group
+3.7",Insurance Carriers,0,114,179,146.5,MA,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+292,367,"Associate Scientist/Scientist, Process Analytical Technology - Small Molecule Analytical Chemistry","Genentech
+3.9",Biotech & Pharmaceuticals,0,88,162,125.0,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+293,368,Sr. Data Analyst,"MassMutual
+3.6",Insurance Carriers,0,60,102,81.0,MA,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+294,369,Senior Data & Machine Learning Scientist,"Tempus Labs
+3.0",Biotech & Pharmaceuticals,0,100,166,133.0,IL,1,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0
+295,370,Program/Data Analyst,"General Dynamics Information Technology
+3.4",IT Services,0,55,99,77.0,DC,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+296,371,Data Engineer,"ManTech
+4.1",Research & Development,0,67,117,92.0,VA,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+297,372,Senior Data Scientist: Causal & Predictive analytics AI Innovation Lab,"Novartis
+3.8",Biotech & Pharmaceuticals,0,92,150,121.0,MA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,375,"Principal Data Engineer, Data Platform & Insights","Autodesk
+4.0",Computer Hardware & Software,0,116,209,162.5,CA,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+299,376,RESEARCH SCIENTIST - BIOLOGICAL SAFETY,"Southwest Research Institute
+3.9",Research & Development,0,38,82,60.0,TX,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+300,377,Data Operations Lead,Muso,-1,0,85,90,87.5,CA,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+301,379,Big Data Engineer,"SpringML
+4.4",Enterprise Software & Network Solutions,0,62,119,90.5,IN,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+302,380,Data Scientist / Machine Learning Expert,"Novartis
+3.8",Biotech & Pharmaceuticals,0,86,143,114.5,MA,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+303,381,Data Scientist,"Juniper Networks
+3.8",Telecommunications Services,0,93,149,121.0,CA,1,1,0,1,1,0,1,0,1,1,0,0,0,0,1,0
+304,382,Senior Data Scientist,"The Integer Group
+2.2",Advertising & Marketing,0,84,136,110.0,TX,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+305,383,PV Scientist,"Karyopharm Therapeutics Inc.
+2.9",Biotech & Pharmaceuticals,0,60,123,91.5,MA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+306,384,Clinical Data Analyst,"ManTech
+4.1",Research & Development,0,52,89,70.5,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+307,386,Data Engineer,"P2 Energy Solutions
+3.7",Computer Hardware & Software,0,48,93,70.5,LA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+308,387,Computational Chemist/Data Scientist,"PNNL
+3.8",Energy,0,56,97,76.5,WA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+309,388,Data Engineer,"MassMutual
+3.6",Insurance Carriers,0,65,119,92.0,MA,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+310,390,Principal Data Scientist (Computational Chemistry),"Recursion Pharmaceuticals
+4.7",Biotech & Pharmaceuticals,0,108,173,140.5,UT,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0
+311,391,Product Engineer – Data Science,"Esri
+3.5",Computer Hardware & Software,0,63,101,82.0,VA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+312,392,"Principal Scientist, Chemistry & Immunology","Rochester Regional Health
+3.3",Health Care Services & Hospitals,0,54,115,84.5,NY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+313,394,"Scientist/Senior Scientist, Autoimmune","Rubius Therapeutics
+4.4",Biotech & Pharmaceuticals,0,90,179,134.5,MA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+314,396,Data Scientist,"Samba TV
+3.3",Advertising & Marketing,0,127,202,164.5,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+315,397,Market Data Analyst,"SV Microwave
+3.4",Telecommunications Manufacturing,0,31,57,44.0,FL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+316,398,Software Engineer - Data Visualization,"ClearEdge
+4.0",Computer Hardware & Software,0,60,127,93.5,MD,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+317,399,Data Engineer,"SpringML
+4.4",Enterprise Software & Network Solutions,0,75,143,109.0,VA,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+318,400,Staff Data Engineer,"Sumo Logic
+3.8",Computer Hardware & Software,0,105,194,149.5,TX,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+319,401,Associate Data Engineer,"EAB
+3.5",Research & Development,0,45,86,65.5,DC,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+320,403,Senior Data Scientist,"Brighthouse Financial
+3.5",Insurance Carriers,0,95,154,124.5,NC,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+321,406,Staff BI and Data Engineer,"Affinity Solutions
+2.9",Advertising & Marketing,0,80,148,114.0,CA,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+322,407,Marketing Data Analyst,"Citadel Federal Credit Union
+3.9",Banks & Credit Unions,0,36,62,49.0,PA,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+323,409,"Principal Scientist, Hematology","Rochester Regional Health
+3.3",Health Care Services & Hospitals,0,54,115,84.5,NY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+324,410,Data Analyst,"CALIBRE Systems
+3.7",IT Services,0,50,92,71.0,VA,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0
+325,411,"Director - Data, Privacy and AI Governance","MassMutual
+3.6",Insurance Carriers,0,67,135,101.0,MA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+326,412,Data Scientist,"Esri
+3.5",Computer Hardware & Software,0,82,132,107.0,CA,1,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0
+327,413,Data Scientist,"New England Biolabs
+4.7",Biotech & Pharmaceuticals,0,85,140,112.5,MA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+328,414,Staff Machine Learning Engineer,"Tapjoy
+3.9",Internet,0,138,224,181.0,CA,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+329,415,Information Security Data Analyst,"Motorola Solutions
+3.7",Computer Hardware & Software,0,42,80,61.0,IL,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+330,416,Lead Data Engineer,"Credit Sesame
+4.1",Internet,0,190,220,205.0,CA,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+331,417,Scientist Manufacturing - Kentucky BioProcessing,"Reynolds American
+3.1",Consumer Products Manufacturing,0,68,139,103.5,KY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+332,419,Data Analytics Project Manager,"MassMutual
+3.6",Insurance Carriers,0,34,92,63.0,MA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+333,420,Consultant - Analytics Consulting,"Infosys
+3.0",IT Services,0,54,71,62.5,CT,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+334,421,Data Engineer,"Alignment Healthcare
+3.5",Health Care Services & Hospitals,0,65,124,94.5,CA,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+335,425,Marketing Data Analyst,"San Manuel Casino
+3.6",Gambling,0,35,62,48.5,CA,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1
+336,426,Senior Scientist (Neuroscience),"Sunovion
+3.5",Biotech & Pharmaceuticals,0,109,200,154.5,MA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+338,428,Machine Learning Engineer - Regulatory,"Cboe Global Markets
+3.7",Stock Exchanges,0,61,113,87.0,KS,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+339,429,R&D Specialist/ Food Scientist,"Teasdale Latin Foods
+2.4",Food & Beverage Manufacturing,0,39,66,52.5,IL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+340,430,Data Engineer,"Guidepoint
+3.2",Research & Development,0,43,86,64.5,NY,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+341,431,"Scientist, Bacteriology","Cerus Corporation
+2.1",Biotech & Pharmaceuticals,0,74,149,111.5,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+342,433,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence","Takeda Pharmaceuticals
+3.7",Biotech & Pharmaceuticals,0,113,196,154.5,MA,0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0
+343,434,Senior Research Scientist-Machine Learning,"Software Engineering Institute
+2.6",Colleges & Universities,0,81,167,124.0,PA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+344,435,Senior Data Scientist,"Maven Wave Partners
+4.4",Consulting,0,97,160,128.5,IL,1,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+346,442,Analytics Manager - Data Mart,"Central California Alliance for Health
+3.5",Health Care Services & Hospitals,0,42,86,64.0,CA,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+347,443,Sr. Data Engineer - Contract-to-Hire (Java),"Pilot Flying J Travel Centers LLC
+3.0",Gas Stations,0,69,127,98.0,TN,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+348,444,Data Scientist - Algorithms & Inference,"Nuna
+4.2",Enterprise Software & Network Solutions,0,110,175,142.5,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,446,Senior Data Scientist - R&D Oncology,"AstraZeneca
+3.9",Biotech & Pharmaceuticals,0,102,172,137.0,NY,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+350,447,Data Engineer,"Pinnacol Assurance
+4.0",Insurance Carriers,0,74,124,99.0,CO,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+351,448,Food Scientist - Developer,"Palermo's Pizza
+3.3",Food & Beverage Manufacturing,0,40,68,54.0,WI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+352,449,Senior Data Scientist,"MathWorks
+4.4",Computer Hardware & Software,0,108,171,139.5,MA,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+353,450,Data Engineer,"MetroStar Systems
+3.4",IT Services,0,76,142,109.0,MD,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,452,"Director II, Data Science - GRM Actuarial","Liberty Mutual Insurance
+3.3",Insurance Carriers,0,202,306,254.0,IL,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+355,454,"Scientist, Molecular/Cellular Biologist","Audentes Therapeutics
+2.9",Biotech & Pharmaceuticals,0,49,97,73.0,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,455,Staff Scientist-Downstream Process Development,"Advanced BioScience Laboratories
+2.7",Biotech & Pharmaceuticals,0,49,113,81.0,MD,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+358,458,Scientist - Analytical Services,"Reynolds American
+3.1",Consumer Products Manufacturing,0,65,134,99.5,NC,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+359,459,Associate Data Analyst- Graduate Development Program,"National Interstate
+3.3",Insurance Carriers,0,32,59,45.5,OH,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+360,461,Sr. Data Engineer,"Moser Consulting
+4.5",Consulting,0,87,158,122.5,IN,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0
+361,462,Senior Insurance Data Scientist,"TransUnion
+3.9",Financial Analytics & Research,0,107,173,140.0,IL,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+362,463,Senior Data Science Systems Engineer,"MITRE
+3.2",Federal Agencies,0,56,99,77.5,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+364,466,Senior Scientist - Regulatory Submissions,"Reynolds American
+3.1",Consumer Products Manufacturing,0,80,155,117.5,NC,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+365,467,Scientist - Biomarker and Flow Cytometry,"Crown Bioscience
+2.4",Biotech & Pharmaceuticals,0,43,98,70.5,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+366,468,Revenue Analytics Manager,"HOVER
+4.8",Computer Hardware & Software,0,45,78,61.5,CA,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+367,469,"Associate Scientist, LC/MS Biologics","Q2 Solutions
+2.9",Biotech & Pharmaceuticals,0,44,96,70.0,NY,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+368,470,Sr. Scientist Method Development,"Q2 Solutions
+2.9",Biotech & Pharmaceuticals,0,50,110,80.0,GA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+369,471,IT - Data Engineer II,"Arbella Insurance
+3.4",Insurance Carriers,0,61,119,90.0,MA,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+370,472,"Research Scientist, Immunology - Cancer Biology",Kronos Bio,-1,0,100,140,120.0,MA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+371,473,"Project Scientist - Auton Lab, Robotics Institute","Software Engineering Institute
+2.6",Colleges & Universities,0,56,91,73.5,PA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+372,476,Data Scientist,"Zimmerman Advertising
+3.8",Advertising & Marketing,0,68,114,91.0,FL,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0
+373,477,Data Scientist,"BPA Services
+5.0",Enterprise Software & Network Solutions,0,150,160,155.0,DC,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+374,479,"Enterprise Architect, Data","MassMutual
+3.6",Insurance Carriers,0,101,158,129.5,MA,1,1,1,1,1,0,0,0,0,0,1,1,1,0,0,0
+375,482,"Senior Manager, Epidemiologic Data Scientist","Pfizer
+4.0",Biotech & Pharmaceuticals,0,125,210,167.5,NY,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+376,483,Corporate Risk Data Analyst (SQL Based) - Milwaukee or,"Associated Banc-Corp
+3.8",Banks & Credit Unions,0,43,77,60.0,WI,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+377,485,Lead Data Scientist,"Zest AI
+3.9",Financial Analytics & Research,0,139,221,180.0,CA,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+378,486,"Marketing Data Analyst, May 2020 Undergrad","Fareportal
+3.8",Travel Agencies,0,44,86,65.0,NY,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+379,487,Senior Data Engineer,"Genesys
+4.3",Computer Hardware & Software,0,78,147,112.5,NC,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+380,488,Senior Data Analyst,"Moda Operandi
+1.9","Department, Clothing, & Shoe Stores",0,65,110,87.5,NY,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+381,489,Data Modeler - Data Solutions Engineer,"Liberty Mutual Insurance
+3.3",Insurance Carriers,0,37,66,51.5,IN,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+382,490,Associate Environmental Scientist - Wildlife Biologist,"QK
+4.7",Architectural & Engineering Services,0,38,64,51.0,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+383,491,"Associate, Data Science, Internal Audit","Santander
+3.1",Banks & Credit Unions,0,43,82,62.5,MA,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+384,492,Sr Data Engineer (Sr BI Developer),"Tivity Health
+3.4",Health Care Services & Hospitals,0,90,110,100.0,AZ,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+385,493,Data Engineer,"BRMi
+4.4",IT Services,0,61,109,85.0,VA,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+386,494,Senior LiDAR Data Scientist,"Luminar Technologies
+3.9",Computer Hardware & Software,0,93,151,122.0,FL,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+387,495,Salesforce Analytics Consultant,"Emtec, Inc.
+3.9",Enterprise Software & Network Solutions,0,52,81,66.5,IL,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+388,496,"Technology-Minded, Data Professional Opportunities","Veterans United Home Loans
+4.7",Lending,0,40,101,70.5,MO,0,1,0,1,1,0,0,0,0,0,1,1,0,0,1,0
+389,497,Senior Data Engineer,"Praetorian
+4.7",Security Services,0,97,180,138.5,TX,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+390,498,Managing Data Scientist/ML Engineer,"PA Consulting
+3.4",Consulting,0,81,134,107.5,MA,0,1,0,1,1,0,0,0,0,0,1,1,0,0,1,0
+391,499,"Scientist, Pharmacometrics","Agios Pharmaceuticals
+3.8",Biotech & Pharmaceuticals,0,84,157,120.5,MA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+392,500,Staff Scientist- Upstream PD,"Advanced BioScience Laboratories
+2.7",Biotech & Pharmaceuticals,0,49,113,81.0,MD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,501,Scientist Manufacturing Pharma - Kentucky BioProcessing,"Reynolds American
+3.1",Consumer Products Manufacturing,0,68,139,103.5,KY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+394,502,Sr. Data Engineer,"Echo Global Logistics
+3.4",Transportation Management,0,75,140,107.5,IL,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+395,505,Lead Big Data Engineer,"Glassdoor
+4.0",Internet,0,121,203,162.0,CA,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+396,506,Product Engineer – Spatial Data Science and Statistical Analysis,"Esri
+3.5",Computer Hardware & Software,0,52,85,68.5,CA,1,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0
+397,507,Sr Software Engineer (Data Scientist),"Assurant
+3.4",Insurance Carriers,0,81,140,110.5,OH,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0
+398,508,College Hire - Data Scientist - Open to December 2019 Graduates,"Caterpillar
+3.7",Industrial Manufacturing,0,63,99,81.0,IL,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+399,509,Senior Data Scientist,"Equity Residential
+4.3",Real Estate,0,110,150,130.0,IL,1,1,0,1,1,0,0,0,1,0,1,1,1,0,0,0
+400,510,Sr. Data Engineer (ETL Developer),"F&G
+3.7",Insurance Carriers,0,83,148,115.5,IA,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+401,512,Senior Data Scientist Artificial Intelligence,"PNNL
+3.8",Energy,0,60,101,80.5,WA,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+402,516,Analytics - Business Assurance Data Analyst,"GreatAmerica Financial Services
+4.6",Lending,0,31,55,43.0,IA,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+403,517,"Associate Director/Director, Safety Scientist","Acceleron Pharma
+4.4",Biotech & Pharmaceuticals,0,102,178,140.0,MA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+404,518,"Senior Scientist, Cell Pharmacology/Assay Development",Kronos Bio,-1,0,110,130,120.0,MA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+405,519,Data Analyst Senior,"AmeriHealth Caritas
+3.0",Insurance Carriers,0,48,85,66.5,PA,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0
+406,520,Lead Data Engineer (Python),"Strategic Employment Partners
+4.7",Staffing & Outsourcing,0,66,123,94.5,CA,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+407,521,Senior Data Scientist 4 Artificial Intelligence,"PNNL
+3.8",Energy,0,92,146,119.0,WA,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+410,524,"Director II, Data Science - GRS Predictive Analytics","Liberty Mutual Insurance
+3.3",Insurance Carriers,0,150,239,194.5,IL,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+411,525,RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,"Southwest Research Institute
+3.9",Research & Development,0,52,91,71.5,TX,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+412,526,Geospatial Software Developer and Data Scientist,"Applied Research Laboratories
+3.7",Colleges & Universities,0,82,129,105.5,TX,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0
+413,528,Senior Scientist - Toxicologist - Product Integrity (Stewardship),"Reynolds American
+3.1",Consumer Products Manufacturing,0,47,101,74.0,NC,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+414,530,Systems Engineer II - Data Analyst,"Raytheon
+3.7",Aerospace & Defense,0,49,76,62.5,AL,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+415,532,Senior Research Analytical Scientist-Non-Targeted Analysis,"RTI International
+4.3",Research & Development,0,43,88,65.5,NC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,533,Director Data Science,"TRANZACT
+3.6",Advertising & Marketing,0,124,199,161.5,NJ,1,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0
+417,534,Sr Data Analyst - IT,"United BioSource
+2.1",Biotech & Pharmaceuticals,0,52,93,72.5,PA,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+418,535,Senior Data Engineer,"Figure Eight
+3.9",Computer Hardware & Software,0,97,181,139.0,CA,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+419,537,Senior Data Engineer,"Tapjoy
+3.9",Internet,0,100,173,136.5,CA,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+420,538,Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,"Fareportal
+3.8",Travel Agencies,0,53,96,74.5,NY,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+421,539,Senior Scientist - Biostatistician,"Reynolds American
+3.1",Consumer Products Manufacturing,0,65,96,80.5,NC,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+422,540,Data Scientist,"Sartorius
+3.5",Biotech & Pharmaceuticals,0,56,95,75.5,NM,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+423,541,Data Scientist,"1904labs
+4.7",IT Services,0,111,176,143.5,MO,1,1,0,0,1,0,1,0,1,1,0,0,0,0,0,0
+424,542,Data Scientist,"Royce Geospatial
+5.0",Aerospace & Defense,0,75,127,101.0,VA,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+425,543,Data Engineer,"MassMutual
+3.6",Insurance Carriers,0,65,119,92.0,MA,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+426,544,Computational Chemist/Data Scientist,"PNNL
+3.8",Energy,0,56,97,76.5,WA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+427,545,Principal Data Scientist (Computational Chemistry),"Recursion Pharmaceuticals
+4.7",Biotech & Pharmaceuticals,0,108,173,140.5,UT,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0
+428,546,Data Scientist,"Citi
+3.6",Investment Banking & Asset Management,0,94,139,116.5,NJ,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+429,548,Principal Machine Learning Scientist,"Sage Intacct
+4.7",Computer Hardware & Software,0,176,289,232.5,CA,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+430,549,Data Scientist,"Scale AI
+3.5",Enterprise Software & Network Solutions,0,92,149,120.5,CA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+431,550,Product Engineer – Data Science,"Esri
+3.5",Computer Hardware & Software,0,63,101,82.0,VA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+432,552,"Principal Scientist, Chemistry & Immunology","Rochester Regional Health
+3.3",Health Care Services & Hospitals,0,54,115,84.5,NY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+433,554,Data Scientist,"Change Healthcare
+2.7",IT Services,0,118,188,153.0,CA,1,1,1,0,1,0,1,1,0,1,0,0,0,0,0,0
+434,555,Data Scientist,"MZ
+3.4",Internet,0,108,146,127.0,CA,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+435,556,Data Scientist,"HG Insights
+4.7",Computer Hardware & Software,0,65,106,85.5,CA,1,1,0,1,1,0,0,0,1,1,1,0,0,0,0,0
+436,557,Data Scientist,"1-800-FLOWERS.COM, Inc.
+2.8",Wholesale,0,55,98,76.5,NY,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0
+437,558,Data Scientist,"CBS Interactive
+3.5",TV Broadcast & Cable Networks,0,94,162,128.0,NY,1,1,0,0,1,0,1,0,1,1,1,1,0,0,1,1
+438,560,Data Engineer,"Numeric, LLC
+3.2",Staffing & Outsourcing,0,63,120,91.5,PA,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+439,561,"Scientist/Senior Scientist, Autoimmune","Rubius Therapeutics
+4.4",Biotech & Pharmaceuticals,0,90,179,134.5,MA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+440,562,Data Scientist,"Samba TV
+3.3",Advertising & Marketing,0,127,202,164.5,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+441,563,Software Engineer - Data Visualization,"ClearEdge
+4.0",Computer Hardware & Software,0,60,127,93.5,MD,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+442,565,Market Data Analyst,"SV Microwave
+3.4",Telecommunications Manufacturing,0,31,57,44.0,FL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+443,566,Staff Data Engineer,"Sumo Logic
+3.8",Computer Hardware & Software,0,105,194,149.5,TX,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+444,567,Associate Data Engineer,"EAB
+3.5",Research & Development,0,45,86,65.5,DC,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+445,568,Data Engineer,"SpringML
+4.4",Enterprise Software & Network Solutions,0,75,143,109.0,VA,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+446,570,Staff Data Engineer,"Samsung Research America
+3.7",Computer Hardware & Software,0,126,228,177.0,CA,1,1,1,0,1,0,0,0,0,0,1,0,0,1,1,0
+447,572,Data Scientist,"Systems & Technology Research
+4.7",Aerospace & Defense,0,80,134,107.0,VA,1,1,0,1,1,0,0,1,1,1,1,0,0,0,0,0
+448,573,Data Scientist,"Netskope
+4.1",Enterprise Software & Network Solutions,0,120,189,154.5,CA,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0
+449,575,Data Scientist,"Lorven Technologies Inc
+4.0",Accounting,0,85,142,113.5,CA,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+450,576,Senior Data Scientist,"Brighthouse Financial
+3.5",Insurance Carriers,0,95,154,124.5,NC,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+451,577,Data Scientist,"CareDx
+2.5",Biotech & Pharmaceuticals,0,111,176,143.5,CA,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+452,578,Data Scientist,"Serigor Inc.
+3.9",IT Services,0,87,140,113.5,CA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+453,579,Data Scientist,"Leidos
+3.4",Aerospace & Defense,0,76,127,101.5,VA,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0
+454,580,"Data Analyst, Performance Partnership","Beckman Coulter Diagnostics
+3.6",Health Care Products Manufacturing,0,54,92,73.0,NY,0,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0
+455,582,Data Scientist,"IHS Markit
+3.5",Consulting,0,61,100,80.5,NY,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+456,583,Data Scientist,ALIN,-1,0,81,140,110.5,NY,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+457,585,Staff BI and Data Engineer,"Affinity Solutions
+2.9",Advertising & Marketing,0,80,148,114.0,CA,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+458,586,Data Scientist,"e-IT Professionals Corp.
+3.5","Health, Beauty, & Fitness",0,108,171,139.5,CA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+459,587,Data Scientist,"TechProjects
+4.8",IT Services,0,112,179,145.5,NY,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+460,588,Data Scientist,"Biz2Credit Inc
+4.0",Lending,0,63,111,87.0,NY,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+461,589,Data Scientist,"PeoplesBank
+4.2",Banks & Credit Unions,0,75,126,100.5,MA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+462,590,Data Scientist Manager,"Capgemini
+3.8",Enterprise Software & Network Solutions,0,110,184,147.0,NY,1,1,0,1,1,1,0,0,1,0,1,0,0,0,1,0
+463,591,Data Engineer,"GNY Insurance Companies
+3.7",Insurance Carriers,0,76,145,110.5,NY,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+464,594,Marketing Data Analyst,"Citadel Federal Credit Union
+3.9",Banks & Credit Unions,0,36,62,49.0,PA,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+465,595,Data Scientist,"Conch Technologies, Inc
+4.6",Consulting,0,70,118,94.0,MA,1,1,1,0,1,0,0,0,0,0,1,1,1,0,0,0
+466,597,Senior Data Scientist,"Medidata Solutions
+4.3",Enterprise Software & Network Solutions,0,94,153,123.5,NY,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+467,599,"Principal Scientist, Hematology","Rochester Regional Health
+3.3",Health Care Services & Hospitals,0,54,115,84.5,NY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+468,600,Data Analyst,"CALIBRE Systems
+3.7",IT Services,0,50,92,71.0,VA,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0
+469,601,Software Data Engineer - College,"HP Inc.
+4.0",Computer Hardware & Software,0,49,97,73.0,OR,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+470,602,"Director - Data, Privacy and AI Governance","MassMutual
+3.6",Insurance Carriers,0,67,135,101.0,MA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+471,603,Staff Machine Learning Engineer,"Tapjoy
+3.9",Internet,0,138,224,181.0,CA,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+472,604,Data Scientist,"Northrop Grumman
+3.7",Aerospace & Defense,0,80,139,109.5,CA,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+473,605,Lead Data Scientist,"Visa Inc.
+3.7",IT Services,0,158,211,184.5,WA,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0
+474,606,Senior Data Scientist - Algorithms,"Quartet Health
+3.9",Enterprise Software & Network Solutions,0,150,180,165.0,NY,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+475,607,Information Security Data Analyst,"Motorola Solutions
+3.7",Computer Hardware & Software,0,42,80,61.0,IL,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+476,608,Lead Data Engineer,"Credit Sesame
+4.1",Internet,0,190,220,205.0,CA,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+477,609,Data Analyst,"Success Academy Charter Schools
+3.1",K-12 Education,0,42,77,59.5,NY,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+478,610,Scientist Manufacturing - Kentucky BioProcessing,"Reynolds American
+3.1",Consumer Products Manufacturing,0,68,139,103.5,KY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+479,613,Consultant - Analytics Consulting,"Infosys
+3.0",IT Services,0,54,71,62.5,CT,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+480,614,Data Analytics Project Manager,"MassMutual
+3.6",Insurance Carriers,0,34,92,63.0,MA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+481,616,Data Analyst,"AXION Healthcare Solutions
+3.6",Health Care Services & Hospitals,0,47,85,66.0,NY,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+482,617,Data Engineer,"Alignment Healthcare
+3.5",Health Care Services & Hospitals,0,65,124,94.5,CA,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+483,619,Data Scientist,"ExecOnline
+4.2",Education Training Services,0,56,95,75.5,NY,1,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0
+484,622,Machine Learning Engineer,"Mteq
+4.0",Aerospace & Defense,0,62,112,87.0,VA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+485,623,Senior Data Scientist Oncology,"AstraZeneca
+3.9",Biotech & Pharmaceuticals,0,107,173,140.0,MD,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+486,624,Data Scientist,"Brillient
+3.7",IT Services,0,64,108,86.0,MD,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+487,625,Senior Data Scientist,"Entefy
+4.4",Internet,0,89,144,116.5,CA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+488,627,Senior Scientist (Neuroscience),"Sunovion
+3.5",Biotech & Pharmaceuticals,0,109,200,154.5,MA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+489,629,Machine Learning Engineer - Regulatory,"Cboe Global Markets
+3.7",Stock Exchanges,0,61,113,87.0,KS,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+490,630,Marketing Data Analyst,"San Manuel Casino
+3.6",Gambling,0,35,62,48.5,CA,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1
+491,631,Data Engineer,"Trace3
+3.4",IT Services,0,55,105,80.0,TX,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+493,633,R&D Specialist/ Food Scientist,"Teasdale Latin Foods
+2.4",Food & Beverage Manufacturing,0,39,66,52.5,IL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+494,634,Principal Data Scientist,"Northrop Grumman
+3.7",Aerospace & Defense,0,135,211,173.0,CA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+495,635,Data Engineer,"Saama Technologies Inc
+3.5",Biotech & Pharmaceuticals,0,57,80,68.5,AZ,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+496,636,Data Scientist - Alpha Insights,"Two Sigma
+4.4",Investment Banking & Asset Management,0,129,215,172.0,NY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+497,637,"Data Scientist, Office of Data Science","Liberty Mutual Insurance
+3.3",Insurance Carriers,0,86,143,114.5,MA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+498,638,"Associate Principal Scientist, Pharmacogenomics","AstraZeneca
+3.9",Biotech & Pharmaceuticals,0,63,127,95.0,MD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+499,639,Data Scientist - Systems Engineering,"MITRE
+3.2",Federal Agencies,0,50,89,69.5,MA,1,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0
+500,640,Data Engineer,"Guidepoint
+3.2",Research & Development,0,43,86,64.5,NY,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+501,642,"Scientist, Bacteriology","Cerus Corporation
+2.1",Biotech & Pharmaceuticals,0,74,149,111.5,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+502,643,Data Scientist,"Strategic Financial Solutions
+4.0",Consumer Product Rental,0,71,124,97.5,NY,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+503,644,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence","Takeda Pharmaceuticals
+3.7",Biotech & Pharmaceuticals,0,113,196,154.5,MA,0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0
+504,645,Senior Research Scientist-Machine Learning,"Software Engineering Institute
+2.6",Colleges & Universities,0,81,167,124.0,PA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+505,646,Data Scientist,"Remedy BPCI Partners, LLC.
+3.4",Health Care Services & Hospitals,0,69,121,95.0,NY,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+506,647,Senior Data Scientist,"Maven Wave Partners
+4.4",Consulting,0,97,160,128.5,IL,1,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+507,648,Principal Data Scientist,"The Climate Corporation
+3.2",Enterprise Software & Network Solutions,0,150,238,194.0,CA,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+508,651,Data Scientist,"Crossix Solutions
+3.5",Advertising & Marketing,0,77,132,104.5,NY,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+510,653,Data Engineer - Consultant (Charlotte Based),"Clarity Insights
+4.2",IT Services,0,59,112,85.5,NC,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+511,654,"Data Analyst 1, full-time contract worker for up to 12 months","The Church of Jesus Christ of Latter-day Saints
+4.2",Religious Organizations,0,35,65,50.0,UT,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+512,655,Data Engineer,"NCSOFT
+3.1",Video Games,0,79,147,113.0,CA,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0
+513,658,"Scientist, Immuno-Oncology","GSK
+3.9",Biotech & Pharmaceuticals,0,62,119,90.5,MA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+514,660,Senior Data Scientist,"Factual
+4.3",Computer Hardware & Software,0,119,187,153.0,CA,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+515,661,Products Data Analyst II,"TriNet
+3.3",Consulting,0,90,157,123.5,CA,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0
+516,662,Lead Data Analyst,"Signpost
+3.9",Internet,0,32,62,47.0,NY,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+517,663,Analytics Manager - Data Mart,"Central California Alliance for Health
+3.5",Health Care Services & Hospitals,0,42,86,64.0,CA,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+518,664,Data Science Engineer - Mobile,"Adobe
+4.0",Computer Hardware & Software,0,116,208,162.0,CA,1,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0
+519,665,Senior Data Scientist - R&D Oncology,"AstraZeneca
+3.9",Biotech & Pharmaceuticals,0,102,172,137.0,NY,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+520,666,Sr. Data Engineer - Contract-to-Hire (Java),"Pilot Flying J Travel Centers LLC
+3.0",Gas Stations,0,69,127,98.0,TN,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+521,668,Data Scientist,"Swiss Re
+3.7",Insurance Agencies & Brokerages,0,86,144,115.0,NY,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+522,669,Senior Data Scientist,"Sartorius
+3.5",Biotech & Pharmaceuticals,0,102,165,133.5,CO,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+523,670,Data Engineer,"Pinnacol Assurance
+4.0",Insurance Carriers,0,74,124,99.0,CO,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+524,671,Food Scientist - Developer,"Palermo's Pizza
+3.3",Food & Beverage Manufacturing,0,40,68,54.0,WI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+525,672,Senior Data Engineer,"Equian LLC
+3.2",Health Care Services & Hospitals,0,76,142,109.0,TN,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+526,673,Data Engineer,"MetroStar Systems
+3.4",IT Services,0,76,142,109.0,MD,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+527,674,Senior Data Scientist,"MathWorks
+4.4",Computer Hardware & Software,0,108,171,139.5,MA,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+528,675,"Director II, Data Science - GRM Actuarial","Liberty Mutual Insurance
+3.3",Insurance Carriers,0,202,306,254.0,IL,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+529,676,Machine Learning Engineer,"Information Builders
+3.2",Computer Hardware & Software,0,91,159,125.0,NY,1,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0
+530,678,"Sr Expert Data Science, Advanced Visual Analytics (Associate level)","Novartis
+3.8",Biotech & Pharmaceuticals,0,80,133,106.5,MA,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+531,679,"Scientist, Molecular/Cellular Biologist","Audentes Therapeutics
+2.9",Biotech & Pharmaceuticals,0,49,97,73.0,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+532,681,Staff Scientist-Downstream Process Development,"Advanced BioScience Laboratories
+2.7",Biotech & Pharmaceuticals,0,49,113,81.0,MD,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+534,683,Scientist - Analytical Services,"Reynolds American
+3.1",Consumer Products Manufacturing,0,65,134,99.5,NC,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+535,685,Associate Data Analyst- Graduate Development Program,"National Interstate
+3.3",Insurance Carriers,0,32,59,45.5,OH,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+536,687,IT Associate Data Analyst,"The Hanover Insurance Group
+3.7",Insurance Carriers,0,39,69,54.0,MA,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+537,688,Sr. Data Engineer,"Moser Consulting
+4.5",Consulting,0,87,158,122.5,IN,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0
+538,689,Clinical Data Analyst,"Greenway Health
+3.0",Enterprise Software & Network Solutions,0,27,48,37.5,FL,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+539,690,Business Data Analyst,"Fareportal
+3.8",Travel Agencies,0,36,71,53.5,NY,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1
+540,691,Senior Insurance Data Scientist,"TransUnion
+3.9",Financial Analytics & Research,0,107,173,140.0,IL,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+541,692,Senior Data Science Systems Engineer,"MITRE
+3.2",Federal Agencies,0,56,99,77.5,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+543,695,Senior Scientist - Regulatory Submissions,"Reynolds American
+3.1",Consumer Products Manufacturing,0,80,155,117.5,NC,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+544,696,Scientist - Biomarker and Flow Cytometry,"Crown Bioscience
+2.4",Biotech & Pharmaceuticals,0,43,98,70.5,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+545,697,"Associate Scientist, LC/MS Biologics","Q2 Solutions
+2.9",Biotech & Pharmaceuticals,0,44,96,70.0,NY,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+546,698,Revenue Analytics Manager,"HOVER
+4.8",Computer Hardware & Software,0,45,78,61.5,CA,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+547,699,Sr. Scientist Method Development,"Q2 Solutions
+2.9",Biotech & Pharmaceuticals,0,50,110,80.0,GA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+548,700,Data Scientist,"Oversight Systems
+4.7",Computer Hardware & Software,0,60,99,79.5,GA,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0
+549,701,Data Scientist - Sales,"Confluent
+4.7",Computer Hardware & Software,0,130,206,168.0,CA,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+550,702,IT - Data Engineer II,"Arbella Insurance
+3.4",Insurance Carriers,0,61,119,90.0,MA,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+551,703,"Research Scientist, Immunology - Cancer Biology",Kronos Bio,-1,0,100,140,120.0,MA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+552,704,Senior Data Analyst,"Life360
+3.9",Computer Hardware & Software,0,99,178,138.5,CA,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+553,705,"Principal, Data Science - Advanced Analytics","IQVIA
+3.6",Biotech & Pharmaceuticals,0,86,137,111.5,PA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+554,706,Data Science Project Manager,"MassMutual
+3.6",Insurance Carriers,0,37,100,68.5,MA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+555,707,"Sr Scientist, Immuno-Oncology - Oncology","GSK
+3.9",Biotech & Pharmaceuticals,0,58,111,84.5,MA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+556,708,Senior Data Engineer,"Eventbrite
+4.4",Internet,0,72,133,102.5,TN,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+557,709,"Project Scientist - Auton Lab, Robotics Institute","Software Engineering Institute
+2.6",Colleges & Universities,0,56,91,73.5,PA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+558,711,Research Scientist – Security and Privacy,"Riverside Research Institute
+3.6",Federal Agencies,0,61,126,93.5,OH,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+559,712,Data Science Manager,"Numeric, LLC
+3.2",Staffing & Outsourcing,0,95,160,127.5,PA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+560,714,Data Analyst 2 (Missionary Department),"The Church of Jesus Christ of Latter-day Saints
+4.2",Religious Organizations,0,53,91,72.0,UT,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+561,715,"Enterprise Architect, Data","MassMutual
+3.6",Insurance Carriers,0,101,158,129.5,MA,1,1,1,1,1,0,0,0,0,0,1,1,1,0,0,0
+562,718,Supply Chain Data Analyst,"Icon Health and Fitness
+3.1",Consumer Products Manufacturing,0,33,61,47.0,UT,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+563,719,Data Engineer - ETL,"Shipt
+3.8",Consumer Product Rental,0,44,86,65.0,AL,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+564,721,Corporate Risk Data Analyst (SQL Based) - Milwaukee or,"Associated Banc-Corp
+3.8",Banks & Credit Unions,0,43,77,60.0,WI,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+565,722,"Senior Manager, Epidemiologic Data Scientist","Pfizer
+4.0",Biotech & Pharmaceuticals,0,125,210,167.5,NY,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+566,723,"Marketing Data Analyst, May 2020 Undergrad","Fareportal
+3.8",Travel Agencies,0,44,86,65.0,NY,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+567,725,Senior Data Analyst,"Novetta
+4.0",Enterprise Software & Network Solutions,0,69,119,94.0,VA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+568,726,Senior Data Analyst,"Moda Operandi
+1.9","Department, Clothing, & Shoe Stores",0,65,110,87.5,NY,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+569,727,Senior Data Engineer,"Novetta
+4.0",Enterprise Software & Network Solutions,0,67,127,97.0,VA,1,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0
+570,728,Senior Data Engineer,"Genesys
+4.3",Computer Hardware & Software,0,78,147,112.5,NC,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+571,730,Data Modeler (Analytical Systems),"MassMutual
+3.6",Insurance Carriers,0,66,117,91.5,MA,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+572,731,Data Modeler - Data Solutions Engineer,"Liberty Mutual Insurance
+3.3",Insurance Carriers,0,37,66,51.5,IN,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+573,732,Data Scientist in Translational Medicine,"Novartis
+3.8",Biotech & Pharmaceuticals,0,86,143,114.5,MA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+574,733,Data Scientist,"USEReady
+4.3",Consulting,0,84,146,115.0,NY,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0
+575,734,Product Manager/Data Evangelist,"Numeric, LLC
+3.2",Staffing & Outsourcing,0,50,98,74.0,PA,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+576,735,Associate Environmental Scientist - Wildlife Biologist,"QK
+4.7",Architectural & Engineering Services,0,38,64,51.0,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+577,736,Sr Data Engineer (Sr BI Developer),"Tivity Health
+3.4",Health Care Services & Hospitals,0,90,110,100.0,AZ,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+578,737,"Senior Data Scientist – Visualization, Novartis AI Innovation Lab","Novartis
+3.8",Biotech & Pharmaceuticals,0,92,150,121.0,MA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+579,738,Senior Data Analyst/Scientist,"Demandbase
+4.5",Computer Hardware & Software,0,90,153,121.5,CA,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+580,740,"Associate, Data Science, Internal Audit","Santander
+3.1",Banks & Credit Unions,0,43,82,62.5,MA,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+581,741,"Scientist – Cancer Discovery, Molecular Assay",Monte Rosa Therapeutics,-1,0,100,135,117.5,MA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+582,742,Senior LiDAR Data Scientist,"Luminar Technologies
+3.9",Computer Hardware & Software,0,93,151,122.0,FL,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+583,743,Data Engineer,"BRMi
+4.4",IT Services,0,61,109,85.0,VA,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+584,744,Data Engineer,"IntraEdge
+3.4",IT Services,0,42,79,60.5,AZ,1,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+585,745,Lead Data Scientist,"Zest AI
+3.9",Financial Analytics & Research,0,139,221,180.0,CA,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+586,746,"Technology-Minded, Data Professional Opportunities","Veterans United Home Loans
+4.7",Lending,0,40,101,70.5,MO,0,1,0,1,1,0,0,0,0,0,1,1,0,0,1,0
+587,747,Big Data Engineer,"Peraton
+3.3",Aerospace & Defense,0,84,153,118.5,VA,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+588,748,Salesforce Analytics Consultant,"Emtec, Inc.
+3.9",Enterprise Software & Network Solutions,0,52,81,66.5,IL,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+589,749,Managing Data Scientist/ML Engineer,"PA Consulting
+3.4",Consulting,0,81,134,107.5,MA,0,1,0,1,1,0,0,0,0,0,1,1,0,0,1,0
+590,750,Senior Data Engineer,"Praetorian
+4.7",Security Services,0,97,180,138.5,TX,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+591,751,Staff Scientist- Upstream PD,"Advanced BioScience Laboratories
+2.7",Biotech & Pharmaceuticals,0,49,113,81.0,MD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+592,752,Data Engineering Analyst,"COUNTRY Financial
+3.8",Insurance Carriers,0,44,73,58.5,IL,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+593,753,Sr. Data Engineer,"Echo Global Logistics
+3.4",Transportation Management,0,75,140,107.5,IL,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+594,754,"Scientist, Pharmacometrics","Agios Pharmaceuticals
+3.8",Biotech & Pharmaceuticals,0,84,157,120.5,MA,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+595,755,Manager of Data Science,"Tapjoy
+3.9",Internet,0,40,87,63.5,CA,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+596,756,Scientist Manufacturing Pharma - Kentucky BioProcessing,"Reynolds American
+3.1",Consumer Products Manufacturing,0,68,139,103.5,KY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+597,757,Software Engineer (Data Scientist/Software Engineer) - SISW - MG,"Mentor Graphics
+4.1",Computer Hardware & Software,0,72,142,107.0,CA,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+598,758,Data Engineer,"Maxar Technologies
+3.7",Aerospace & Defense,0,74,137,105.5,VA,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+599,759,Data Engineer,"ICW Group
+2.8",Insurance Carriers,0,57,109,83.0,CA,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+600,761,Lead Big Data Engineer,"Glassdoor
+4.0",Internet,0,121,203,162.0,CA,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+601,763,Product Engineer – Spatial Data Science and Statistical Analysis,"Esri
+3.5",Computer Hardware & Software,0,52,85,68.5,CA,1,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0
+602,766,Sr Software Engineer (Data Scientist),"Assurant
+3.4",Insurance Carriers,0,81,140,110.5,OH,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0
+603,767,Sr. Data Engineer (ETL Developer),"F&G
+3.7",Insurance Carriers,0,83,148,115.5,IA,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+604,768,Associate Research Scientist I (Protein Expression and Production),"Exelixis
+3.0",Biotech & Pharmaceuticals,0,59,116,87.5,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+605,769,Senior Data Scientist Artificial Intelligence,"PNNL
+3.8",Energy,0,60,101,80.5,WA,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+606,773,Analytics - Business Assurance Data Analyst,"GreatAmerica Financial Services
+4.6",Lending,0,31,55,43.0,IA,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+607,776,"Associate Director/Director, Safety Scientist","Acceleron Pharma
+4.4",Biotech & Pharmaceuticals,0,102,178,140.0,MA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+608,777,"Director, Precision Medicine Clinical Biomarker Scientist","Pfizer
+4.0",Biotech & Pharmaceuticals,0,136,208,172.0,MA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+609,778,"Senior Scientist, Cell Pharmacology/Assay Development",Kronos Bio,-1,0,110,130,120.0,MA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+610,779,Data Analyst Senior,"AmeriHealth Caritas
+3.0",Insurance Carriers,0,48,85,66.5,PA,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0
+611,780,Senior Formulations Scientist II,"Exelixis
+3.0",Biotech & Pharmaceuticals,0,71,129,100.0,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+612,781,Lead Data Engineer (Python),"Strategic Employment Partners
+4.7",Staffing & Outsourcing,0,66,123,94.5,CA,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+613,782,Data Science Manager,"Grand Rounds
+4.2",Health Care Services & Hospitals,0,171,272,221.5,CA,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+614,783,Senior Data Scientist 4 Artificial Intelligence,"PNNL
+3.8",Energy,0,92,146,119.0,WA,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+615,784,Data Engineer,"SPINS, LLC
+3.5",Consulting,0,65,126,95.5,IL,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+616,785,"Director II, Data Science - GRS Predictive Analytics","Liberty Mutual Insurance
+3.3",Insurance Carriers,0,150,239,194.5,IL,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+619,788,Senior Quantitative Analyst,"DTCC
+3.3",Brokerage Services,0,118,228,173.0,NJ,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+620,789,Geospatial Software Developer and Data Scientist,"Applied Research Laboratories
+3.7",Colleges & Universities,0,82,129,105.5,TX,1,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0
+621,790,RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,"Southwest Research Institute
+3.9",Research & Development,0,52,91,71.5,TX,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+622,791,Senior Scientist - Toxicologist - Product Integrity (Stewardship),"Reynolds American
+3.1",Consumer Products Manufacturing,0,47,101,74.0,NC,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+623,794,Systems Engineer II - Data Analyst,"Raytheon
+3.7",Aerospace & Defense,0,49,76,62.5,AL,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+624,795,Senior Research Analytical Scientist-Non-Targeted Analysis,"RTI International
+4.3",Research & Development,0,43,88,65.5,NC,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+625,797,Data Scientist,"DICK'S Sporting Goods - Corporate
+3.8",Sporting Goods Stores,0,61,109,85.0,PA,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+626,799,Principal Data Scientist,"AstraZeneca
+3.9",Biotech & Pharmaceuticals,0,113,182,147.5,MD,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+627,802,Director Data Science,"TRANZACT
+3.6",Advertising & Marketing,0,124,199,161.5,NJ,1,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0
+628,803,Data Engineer,"Carilion Clinic
+3.7",Health Care Services & Hospitals,0,58,104,81.0,VA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+629,804,Sr Data Analyst - IT,"United BioSource
+2.1",Biotech & Pharmaceuticals,0,52,93,72.5,PA,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+630,806,Senior Data Engineer,"Figure Eight
+3.9",Computer Hardware & Software,0,97,181,139.0,CA,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+631,807,Senior Data Engineer,"Tapjoy
+3.9",Internet,0,100,173,136.5,CA,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+632,808,Sr. Data Analyst,"DoubleVerify
+3.2",Internet,0,58,108,83.0,NY,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+633,809,Research Scientist or Senior Research Scientist - Computer Vision,"Mitsubishi Electric Research Labs
+4.6",Research & Development,0,81,161,121.0,MA,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0
+634,810,Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,"Fareportal
+3.8",Travel Agencies,0,53,96,74.5,NY,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+635,811,Data Analyst Chemist - Quality System Contractor,"Rodan and Fields, LLC
+2.2",Beauty & Personal Accessories Stores,0,61,110,85.5,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+636,812,Senior Scientist - Biostatistician,"Reynolds American
+3.1",Consumer Products Manufacturing,0,65,96,80.5,NC,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+637,815,Research Scientist / Principal Research Scientist - Multiphysical Systems,"Mitsubishi Electric Research Labs
+4.6",Research & Development,0,115,220,167.5,MA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+638,816,"Research Scientist, Machine Learning Department","Software Engineering Institute
+2.6",Colleges & Universities,0,71,144,107.5,PA,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+639,817,Foundational Community Supports Data Analyst,"DESC
+3.4",Social Assistance,0,32,57,44.5,WA,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+640,818,"Senior Health Data Analyst, Star Ratings","Johns Hopkins Health Care
+3.3",Health Care Services & Hospitals,0,79,136,107.5,MD,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+641,819,"Principal Research Scientist/Team Lead, Medicinal Chemistry - Oncology",Kronos Bio,-1,0,120,145,132.5,MA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+642,820,Sr. Data Analyst,"Community Behavioral Health
+3.7",Health Care Services & Hospitals,0,50,89,69.5,PA,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0
+643,821,"Senior Engineer, Data Management Engineering","Western Digital
+3.5",Computer Hardware & Software,0,68,129,98.5,CA,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+644,822,Quality Control Scientist III- Analytical Development,"Advanced BioScience Laboratories
+2.7",Biotech & Pharmaceuticals,0,48,113,80.5,MD,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+646,824,Software Engineer Staff Scientist: Human Language Technologies,"Raytheon
+3.7",Aerospace & Defense,0,74,124,99.0,MD,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+647,825,"Manager, Safety Scientist, Medical Safety & Risk Management","Agios Pharmaceuticals
+3.8",Biotech & Pharmaceuticals,0,68,125,96.5,MA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+648,826,"Assistant Director/Director, Office of Data Science","Liberty Mutual Insurance
+3.3",Insurance Carriers,0,39,67,53.0,MA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+649,827,Sr. Data Engineer | Big Data SaaS Pipeline,"Bridg
+2.7",Enterprise Software & Network Solutions,0,71,135,103.0,CA,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+650,828,Senior Risk Data Scientist,"Bill.com
+3.8",Financial Transaction Processing,0,107,172,139.5,CA,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+651,829,Data Scientist in Artificial Intelligence Early Career,"Pacific Northwest National Laboratory
+3.8",Energy,0,49,85,67.0,WA,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+652,830,Consultant - Analytics Consulting,"Infosys
+3.0",IT Services,0,54,71,62.5,CT,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+653,831,Scientist - CVRM Metabolism - in vivo pharmacology,"AstraZeneca
+3.9",Biotech & Pharmaceuticals,0,61,123,92.0,MD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+654,832,Data Analyst,"AXION Healthcare Solutions
+3.6",Health Care Services & Hospitals,0,47,85,66.0,NY,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+655,836,Data Engineer,"Alignment Healthcare
+3.5",Health Care Services & Hospitals,0,65,124,94.5,CA,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+656,837,Data Scientist,"TRANZACT
+3.6",Advertising & Marketing,0,87,141,114.0,NJ,1,0,1,1,1,0,0,0,0,0,1,1,1,0,0,0
+657,838,Data Scientist,"ExecOnline
+4.2",Education Training Services,0,56,95,75.5,NY,1,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0
+658,839,Data Scientist,"Charter Spectrum
+3.5",K-12 Education,0,71,121,96.0,MO,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+659,840,Machine Learning Engineer,"Mteq
+4.0",Aerospace & Defense,0,62,112,87.0,VA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+660,841,Data Scientist,"Brillient
+3.7",IT Services,0,64,108,86.0,MD,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+661,845,Senior Data Scientist,"Entefy
+4.4",Internet,0,89,144,116.5,CA,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+662,848,Senior Scientist (Neuroscience),"Sunovion
+3.5",Biotech & Pharmaceuticals,0,109,200,154.5,MA,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+663,851,Marketing Data Analyst,"San Manuel Casino
+3.6",Gambling,0,35,62,48.5,CA,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1
+664,852,Machine Learning Engineer - Regulatory,"Cboe Global Markets
+3.7",Stock Exchanges,0,61,113,87.0,KS,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+665,853,Data Engineer,"Trace3
+3.4",IT Services,0,55,105,80.0,TX,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+667,855,Principal Data Scientist,"Northrop Grumman
+3.7",Aerospace & Defense,0,135,211,173.0,CA,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+668,856,R&D Specialist/ Food Scientist,"Teasdale Latin Foods
+2.4",Food & Beverage Manufacturing,0,39,66,52.5,IL,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+669,857,Data Engineer,"Saama Technologies Inc
+3.5",Biotech & Pharmaceuticals,0,57,80,68.5,AZ,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+670,858,"Associate Principal Scientist, Pharmacogenomics","AstraZeneca
+3.9",Biotech & Pharmaceuticals,0,63,127,95.0,MD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+671,859,Data Scientist - Systems Engineering,"MITRE
+3.2",Federal Agencies,0,50,89,69.5,MA,1,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0
+672,860,Senior Data Scientist,"The David J. Joseph Company
+4.4",Metals Brokers,0,82,132,107.0,OH,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0
+673,861,Data Scientist SR,"The Buffalo Group
+3.9",IT Services,0,85,139,112.0,VA,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+674,863,Data Scientist,"CompQsoft
+3.4",Consulting,0,72,121,96.5,DC,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+675,864,"Scientist, Bacteriology","Cerus Corporation
+2.1",Biotech & Pharmaceuticals,0,74,149,111.5,CA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+676,866,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence","Takeda Pharmaceuticals
+3.7",Biotech & Pharmaceuticals,0,113,196,154.5,MA,0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0
+677,867,Data Scientist,"Remedy BPCI Partners, LLC.
+3.4",Health Care Services & Hospitals,0,69,121,95.0,NY,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+678,868,Data Scientist,"Strategic Financial Solutions
+4.0",Consumer Product Rental,0,71,124,97.5,NY,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+679,869,Senior Data Scientist,"Maven Wave Partners
+4.4",Consulting,0,97,160,128.5,IL,1,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+680,870,Senior Research Scientist-Machine Learning,"Software Engineering Institute
+2.6",Colleges & Universities,0,81,167,124.0,PA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+681,871,Principal Data Scientist,"The Climate Corporation
+3.2",Enterprise Software & Network Solutions,0,150,238,194.0,CA,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+683,877,"Data Analyst 1, full-time contract worker for up to 12 months","The Church of Jesus Christ of Latter-day Saints
+4.2",Religious Organizations,0,35,65,50.0,UT,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+684,878,Data Scientist,"Crossix Solutions
+3.5",Advertising & Marketing,0,77,132,104.5,NY,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+685,879,Data Scientist,"Solugenix Corporation
+4.3",IT Services,0,51,88,69.5,AZ,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0
+686,880,Data Scientist,"West Coast University
+2.6",Colleges & Universities,0,101,141,121.0,CA,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+687,881,Data Engineer - Consultant (Charlotte Based),"Clarity Insights
+4.2",IT Services,0,59,112,85.5,NC,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+688,883,Data Engineer,"NCSOFT
+3.1",Video Games,0,79,147,113.0,CA,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0
+689,884,Data Scientist (Warehouse Automation),"SoftBank Robotics
+3.8",Consumer Products Manufacturing,0,79,127,103.0,CA,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0
+690,886,"Scientist, Immuno-Oncology","GSK
+3.9",Biotech & Pharmaceuticals,0,62,119,90.5,MA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+691,887,Senior Data Scientist,"Factual
+4.3",Computer Hardware & Software,0,119,187,153.0,CA,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+692,892,Jr. Data Scientist,"MITRE
+3.2",Federal Agencies,0,81,132,106.5,VA,1,1,0,1,1,1,0,0,0,0,1,1,0,0,0,0
+693,893,Senior Data Scientist,"SkySync
+5.0",Computer Hardware & Software,0,120,140,130.0,MI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+694,895,Products Data Analyst II,"TriNet
+3.3",Consulting,0,90,157,123.5,CA,0,0,0,1,1,1,0,0,0,0,0,1,0,0,1,0
+695,896,Data Architect / Data Modeler,"Medidata Solutions
+4.3",Enterprise Software & Network Solutions,0,63,110,86.5,NY,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+696,897,Analytics Manager - Data Mart,"Central California Alliance for Health
+3.5",Health Care Services & Hospitals,0,42,86,64.0,CA,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+697,898,Lead Data Analyst,"Signpost
+3.9",Internet,0,32,62,47.0,NY,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+698,899,Data Science Engineer - Mobile,"Adobe
+4.0",Computer Hardware & Software,0,116,208,162.0,CA,1,0,0,1,1,0,0,0,0,0,1,1,1,0,0,0
+699,900,Senior Data Scientist Oncology,"AstraZeneca
+3.9",Biotech & Pharmaceuticals,0,107,173,140.0,MD,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+700,901,Data Scientist,"DatamanUSA, LLC
+3.4",IT Services,0,65,113,89.0,WA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+701,902,Sr. Data Engineer - Contract-to-Hire (Java),"Pilot Flying J Travel Centers LLC
+3.0",Gas Stations,0,69,127,98.0,TN,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+702,904,Senior Data Scientist - R&D Oncology,"AstraZeneca
+3.9",Biotech & Pharmaceuticals,0,102,172,137.0,NY,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+703,907,Data Engineer,"Pinnacol Assurance
+4.0",Insurance Carriers,0,74,124,99.0,CO,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+704,909,Food Scientist - Developer,"Palermo's Pizza
+3.3",Food & Beverage Manufacturing,0,40,68,54.0,WI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+705,910,Senior Data Engineer,"Equian LLC
+3.2",Health Care Services & Hospitals,0,76,142,109.0,TN,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+706,911,Data Engineer,"MetroStar Systems
+3.4",IT Services,0,76,142,109.0,MD,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+707,912,Senior Data Scientist,"MathWorks
+4.4",Computer Hardware & Software,0,108,171,139.5,MA,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+708,913,"Director II, Data Science - GRM Actuarial","Liberty Mutual Insurance
+3.3",Insurance Carriers,0,202,306,254.0,IL,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+709,914,Machine Learning Engineer,"Information Builders
+3.2",Computer Hardware & Software,0,91,159,125.0,NY,1,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0
+710,916,"Sr Expert Data Science, Advanced Visual Analytics (Associate level)","Novartis
+3.8",Biotech & Pharmaceuticals,0,80,133,106.5,MA,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0
+712,920,"Scientist, Molecular/Cellular Biologist","Audentes Therapeutics
+2.9",Biotech & Pharmaceuticals,0,49,97,73.0,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+713,921,Staff Scientist-Downstream Process Development,"Advanced BioScience Laboratories
+2.7",Biotech & Pharmaceuticals,0,49,113,81.0,MD,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+714,924,Data Scientist,"Numeric, LLC
+3.2",Staffing & Outsourcing,0,96,161,128.5,PA,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+715,926,Scientist - Analytical Services,"Reynolds American
+3.1",Consumer Products Manufacturing,0,65,134,99.5,NC,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+716,928,"Associate Scientist / Sr. Associate Scientist, Antibody Discovery","23andMe
+4.0",Biotech & Pharmaceuticals,0,59,125,92.0,CA,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+717,929,Associate Data Analyst- Graduate Development Program,"National Interstate
+3.3",Insurance Carriers,0,32,59,45.5,OH,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+718,930,Sr. Data Engineer,"Moser Consulting
+4.5",Consulting,0,87,158,122.5,IN,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0
+719,931,Clinical Data Analyst,"Greenway Health
+3.0",Enterprise Software & Network Solutions,0,27,48,37.5,FL,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+720,932,IT Associate Data Analyst,"The Hanover Insurance Group
+3.7",Insurance Carriers,0,39,69,54.0,MA,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+721,933,Business Data Analyst,"Fareportal
+3.8",Travel Agencies,0,36,71,53.5,NY,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1
+722,934,Senior Insurance Data Scientist,"TransUnion
+3.9",Financial Analytics & Research,0,107,173,140.0,IL,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+723,935,Senior Data Science Systems Engineer,"MITRE
+3.2",Federal Agencies,0,56,99,77.5,VA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+725,938,Senior Scientist - Regulatory Submissions,"Reynolds American
+3.1",Consumer Products Manufacturing,0,80,155,117.5,NC,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+726,939,Scientist - Biomarker and Flow Cytometry,"Crown Bioscience
+2.4",Biotech & Pharmaceuticals,0,43,98,70.5,CA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+727,940,Revenue Analytics Manager,"HOVER
+4.8",Computer Hardware & Software,0,45,78,61.5,CA,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+728,941,Sr. Scientist Method Development,"Q2 Solutions
+2.9",Biotech & Pharmaceuticals,0,50,110,80.0,GA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+729,942,"Associate Scientist, LC/MS Biologics","Q2 Solutions
+2.9",Biotech & Pharmaceuticals,0,44,96,70.0,NY,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+730,943,"Research Scientist, Immunology - Cancer Biology",Kronos Bio,-1,0,100,140,120.0,MA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+731,944,IT - Data Engineer II,"Arbella Insurance
+3.4",Insurance Carriers,0,61,119,90.0,MA,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+732,945,Machine Learning Engineer (NLP),"CK-12 Foundation
+4.1",K-12 Education,0,80,142,111.0,CA,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0
+733,946,Senior Data Analyst,"Life360
+3.9",Computer Hardware & Software,0,99,178,138.5,CA,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+734,947,Data Science Project Manager,"MassMutual
+3.6",Insurance Carriers,0,37,100,68.5,MA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+735,948,Data Engineer,"Fivestars
+3.9",Internet,0,62,113,87.5,CA,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+736,949,"Principal, Data Science - Advanced Analytics","IQVIA
+3.6",Biotech & Pharmaceuticals,0,86,137,111.5,PA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+737,950,"Sr Scientist, Immuno-Oncology - Oncology","GSK
+3.9",Biotech & Pharmaceuticals,0,58,111,84.5,MA,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+738,951,Senior Data Engineer,"Eventbrite
+4.4",Internet,0,72,133,102.5,TN,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+739,952,"Project Scientist - Auton Lab, Robotics Institute","Software Engineering Institute
+2.6",Colleges & Universities,0,56,91,73.5,PA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+740,953,Data Science Manager,"Numeric, LLC
+3.2",Staffing & Outsourcing,0,95,160,127.5,PA,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+741,955,Research Scientist – Security and Privacy,"Riverside Research Institute
+3.6",Federal Agencies,0,61,126,93.5,OH,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
